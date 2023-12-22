@@ -19,6 +19,7 @@ Experience:
 ======
 
 💼 Global Markets Summer Analyst @ UBS Group AG:
+
 • Rotated on the Leveraged Loans, Delta One Derivatives, and Exchange Traded Derivatives desks
 
 • Shadowed seasoned sales and trading experts to gain insights into client dynamics, develop relationship-
@@ -30,6 +31,7 @@ building skills, and effectively communicate complex financial concepts with cla
 data sourced from the CFTC commitment of traders report
 
 💼 Data Analyst @ New York Life Insurance Company: 
+
 • Interviewed company stakeholders on external data attributes and integration possibilities.
 
 • Analyzed the curated external data inventory for cost-reduction and innovation opportunities.
