@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 👨🏻‍🎓 I am currently a senior in the Gabelli School of Business at Fordham University! I'm pursuing a B.Sc. in finance with a secondary concentration in FinTech and a minor in computer science.
 
 📈 I have a passion for the financial markets and computer science!
