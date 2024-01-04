@@ -84,7 +84,7 @@ author:
   avatar           : "profile2.png"
   bio              : "Finance & Computer Science"
   location         : "New York, NY"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "msmith297@fordham.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "msmithgeg"
+  github           : #"msmithgeg"
   google_plus      :
   keybase          :
   instagram        :
