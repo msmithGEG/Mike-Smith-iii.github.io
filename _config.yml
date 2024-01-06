@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🏠 Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Michael Smith"
 description              : &description "personal description"
