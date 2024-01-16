@@ -16,7 +16,7 @@ redirect_from:
 Coursework:
 ======
 
-Some of my past and current coursework includes Investment & Security Analysis, Futures & Options Market, Portfolio Management, Machine Learning for Neural & Biological Data, Algorithmic Trading, Data Mining, and Statistical Decision making.
+📚 Some of my past and current coursework includes Investment & Security Analysis, Futures & Options Market, Portfolio Management, Machine Learning for Neural & Biological Data, Algorithmic Trading, Data Mining, and Statistical Decision-making.
 
 Experience:
 ======
